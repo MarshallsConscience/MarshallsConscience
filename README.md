@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MarshallsConscience
-- 👀 I’m currently a Full stack web dev
-- 🌱 I’m currently learning full stack cross platform mobile development
-- 💞️ I’m looking to collaborate on something simple at first
+- 💞️ I’m looking to collaborate
 - 📫 You can reach me on linkedin https://www.linkedin.com/in/maria-marshall 
 
 <!---
