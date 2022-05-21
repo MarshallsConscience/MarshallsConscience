@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarshallsConscience
-- 💞️ I’m looking to collaborate
-- 📫 You can reach me on linkedin https://www.linkedin.com/in/maria-marshall 
+- 👋 Hi, I’m Maria
+- 💞 Most of my repositories are private
+- 📫 You can reach me on linkedin [here](https://www.linkedin.com/in/maria-marshall)
 
 <!---
 MarshallsConscience/MarshallsConscience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
